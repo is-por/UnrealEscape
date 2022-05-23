@@ -4783,3 +4783,24 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.23-20.37.24:240][605]LogSavePackage: Moving '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Saved/BT_Enemy6CCB71D84E39BE3AE6211DA9EE6B1F7A.tmp' to '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Content/Project/Blueprints/AI/BT_Enemy.uasset'
 [2022.05.23-20.37.24:261][605]AssetCheck: New page: Asset Save: BT_Enemy
 [2022.05.23-20.37.24:261][605]LogContentValidation: Display: Validating BehaviorTree /Game/Project/Blueprints/AI/BT_Enemy.BT_Enemy
+[2022.05.23-20.40.51:562][249]LogEditorTransaction: Undo Move Nodes
+[2022.05.23-20.41.21:604][660]BlueprintLog: New page: Compile BP_Enemy
+[2022.05.23-20.41.21:752][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.05.23-20.41.22:143][674]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/AI/BP_Enemy
+[2022.05.23-20.41.22:144][674]LogSavePackage: Moving '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Saved/BP_Enemy8A0DBA55490ACDCF755C06A7B8B65F1C.tmp' to '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Content/Project/Blueprints/AI/BP_Enemy.uasset'
+[2022.05.23-20.41.22:162][674]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.05.23-20.41.22:162][674]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/AI/BP_Enemy.BP_Enemy
+[2022.05.23-20.41.22:521][701]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/AI/BP_Enemy
+[2022.05.23-20.41.22:521][701]LogSavePackage: Moving '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Saved/BP_EnemyEB77EBBA44BF2F6E798A458495DE2323.tmp' to '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Content/Project/Blueprints/AI/BP_Enemy.uasset'
+[2022.05.23-20.41.22:536][701]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.05.23-20.41.22:536][701]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/AI/BP_Enemy.BP_Enemy
+[2022.05.23-20.41.25:337][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.23-20.41.25:352][894]LogSavePackage: Moving output files for package: /Game/Project/AITestLevel
+[2022.05.23-20.41.25:353][894]LogSavePackage: Moving '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Saved/AITestLevel7851CE7F44E27FB9D35332AAACA18E4D.tmp' to '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Content/Project/AITestLevel.umap'
+[2022.05.23-20.41.25:379][894]AssetCheck: New page: Asset Save: AITestLevel
+[2022.05.23-20.41.25:379][894]LogContentValidation: Display: Validating World /Game/Project/AITestLevel.AITestLevel
+[2022.05.23-20.41.25:930][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.05.23-20.41.25:943][920]LogSavePackage: Moving output files for package: /Game/Project/AITestLevel
+[2022.05.23-20.41.25:943][920]LogSavePackage: Moving '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Saved/AITestLevel9016D841455A0BEAE3E06888AF787DFF.tmp' to '../../../../../../Usuarios/Ismael/Master/Realidad Virtual Avanzada/Practicas/UnrealEscape/Content/Project/AITestLevel.umap'
+[2022.05.23-20.41.25:972][920]AssetCheck: New page: Asset Save: AITestLevel
+[2022.05.23-20.41.25:972][920]LogContentValidation: Display: Validating World /Game/Project/AITestLevel.AITestLevel
